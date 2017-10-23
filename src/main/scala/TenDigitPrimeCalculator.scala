@@ -7,12 +7,7 @@ class TenDigitPrimeCalculator {
     }
 
     def isPrime(n: Long): Boolean = {
-        if (n % 2 == 0) return false
-        if (n % 3 == 0) return false
-        if (n % 5 == 0) return false
-        if (n % 7 == 0) return false
-        if (n % 11 == 0) return false
-        if (n % 13 == 0) return false
+        if (n % 2 == 0 || n % 3 == 0 || n % 5 == 0 || n % 7 == 0 || n % 11 == 0 || n % 13 == 0) return false
         var i: Long = 3
         while (i * i <= n) {
             if (n % i == 0) return false
