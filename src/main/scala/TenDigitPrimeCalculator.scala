@@ -23,8 +23,8 @@ class TenDigitPrimeCalculator {
             println("Start is: '" + start + "', End is: '" + end + "'")
             possiblePrime = eDigits.substring(start, end)
             println("Possible prime is: '" + possiblePrime + "'")
-            val possiblePrimeAsInt = toLong(possiblePrime)
-            val isValueAPrimeNumber = isPrime(possiblePrimeAsInt)
+            val possiblePrimeAsLong = toLong(possiblePrime)
+            val isValueAPrimeNumber = isPrime(possiblePrimeAsLong)
             if(isValueAPrimeNumber){
                 println("'" + possiblePrime + "' is a prime number")
                 return possiblePrime
