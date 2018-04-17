@@ -1,6 +1,6 @@
 # TenDigitPrimeCalculatorScala
-TenDigitPrimeCalculatorScala is a project to calculate the [Google 10 digit prime number](https://mkaz.tech/math/google-billboard-problems/) from the Euler number in Scala.
-TenDigitPrimeCalculatorScala is a project to calculate the [Google billboard](https://mkaz.tech/math/google-billboard-problems/) problem in Scala.
+TenDigitPrimeCalculatorScala is a project to calculate the [Google 10 digit prime number](https://mkaz.blog/math/google-billboard-problems/) from the Euler number in Scala.
+TenDigitPrimeCalculatorScala is a project to calculate the [Google billboard](https://mkaz.blog/math/google-billboard-problems/) problem in Scala.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/asktfu5d23gee50l?svg=true)](https://ci.appveyor.com/project/SeppPenner/tendigitprimecalculatorscala)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TenDigitPrimeCalculatorScala.svg)](https://github.com/SeppPenner/TenDigitPrimeCalculatorScala/issues)
