@@ -6,7 +6,7 @@ TenDigitPrimeCalculatorScala is a project to calculate the [Google billboard](ht
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TenDigitPrimeCalculatorScala.svg)](https://github.com/SeppPenner/TenDigitPrimeCalculatorScala/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/TenDigitPrimeCalculatorScala.svg)](https://github.com/SeppPenner/TenDigitPrimeCalculatorScala/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/TenDigitPrimeCalculatorScala.svg)](https://github.com/SeppPenner/TenDigitPrimeCalculatorScala/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/TenDigitPrimeCalculatorScala/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/TenDigitPrimeCalculatorScala/master/License.txt)
 
 ## References
 http://franzhuber23.blogspot.de/2017/10/google-10-digit-prime-in-eulers-number.html
